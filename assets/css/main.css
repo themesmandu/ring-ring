@@ -262,9 +262,11 @@ h6 {
     color: #ffffff;
     margin: 0;
 }
-.top-navigation .site-branding img{
-	max-width: 290px;
+
+.top-navigation .site-branding img {
+    max-width: 290px;
 }
+
 .navbar-expand-lg .menu-item {
     margin: 0 24px;
     position: relative;
@@ -551,7 +553,7 @@ section h2 span {
     height: 40px;
     width: 100%;
     max-width: 40px;
-    margin: auto 20px auto auto;
+    margin: auto 20px auto 0;
 }
 
 .section_two .content {
